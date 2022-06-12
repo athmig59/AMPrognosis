@@ -1,0 +1,25 @@
+Package: AMPrognosis
+Title: Time Series Forecasting and Decomposition
+Version: 1.0.0
+Authors@R: c(
+    person("Athanasios", "Migdalas", "samig59@gmail.com", role = c("aut", "cre"))
+  )
+Description: Implements models, methods and algorithms for decomposition, forecasting 
+  and plotting demand time series. It is a class companion for students of courses in logistics. 
+  The intention is to minimize the required knowledge of R for the user. 
+  The functions are, hopefully, so formed as to support the student of 
+  logistics to easily and successfully complete class assignments and 
+  exercises. At the same time, it is hopped that the package provide for 
+  the possibility of "do it your self" for those interested in deeper 
+  understanding of the algorithms and willing to realize them in R script.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    cowplot,
+    ggplot2,
+    gridExtra
+Depends: 
+    R (>= 2.10)
+LazyData: true

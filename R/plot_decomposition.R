@@ -36,6 +36,7 @@
 #' plot_decomposition(res$Table)
 #'
 #'
+#' @importFrom ggplot2 ggplot aes xlab ylab ggtitle
 #' @export
 plot_decomposition <- function(df,figtitle=NaN, figfil=NaN){
 

@@ -30,7 +30,7 @@
 #' ## or plot without storing in a variable
 #' plot_demand_vs_forecast(df=res$Table)
 #'
-#'
+#' @importFrom ggplot2 ggplot geom_line aes xlab ylab ggtitle
 #' @export
 plot_demand_vs_forecast <- function(df){
 

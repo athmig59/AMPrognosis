@@ -37,5 +37,4 @@ print(p2)
 ## or plot without storing in a variable
 plot_demand_vs_forecast(df=res$Table)
 
-
 }

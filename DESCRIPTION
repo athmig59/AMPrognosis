@@ -1,9 +1,8 @@
 Package: AMPrognosis
 Title: Time Series Forecasting and Decomposition
 Version: 1.0.0
-Authors@R: c(
-    person("Athanasios", "Migdalas", "samig59@gmail.com", role = c("aut", "cre"))
-  )
+Author: Athanasios Migdalas <athmig59@gmail.com>
+Maintainer: Athanasios Migdalas <athmig59@gmail.com>
 Description: Implements models, methods and algorithms for decomposition, forecasting 
   and plotting demand time series. It is a class companion for students of courses in logistics. 
   The intention is to minimize the required knowledge of R for the user. 

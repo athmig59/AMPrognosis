@@ -1,3 +1,5 @@
 ^AMPrognosis\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^data-raw/df2v.R$
+^data-raw$
